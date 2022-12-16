@@ -1,6 +1,8 @@
 # secureApplicationProgrammingProject
 BSHCYB4 Project
-##There are two branches in this repository, one with the inscure code, and one with the scuree code
+
+There are two branches in this repository, one with the inscure code, and one with the scuree code
+
 ## Setup & Installtion
 
 Ensure Python 3.11 is Installed. along with flask, Flask-SQLAlchemy. flask-login
